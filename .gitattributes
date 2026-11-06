@@ -1,0 +1,3 @@
+# Third-party libraries copied into lib/ are not this project's code;
+# keep them out of GitHub's language stats.
+lib/** linguist-vendored
